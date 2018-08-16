@@ -1,212 +1,330 @@
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, DH Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://arxiv.org/abs/1806.00374
-    display:  arxiv:1806.00374 (2018)
-  highlight: 1
-  news2: 
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://arxiv.org/abs/1712.08620
-    display:  arxiv:1712.08620 (2017)
-  highlight: 1
-  news2: 
-
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
+- title: "A three-dimensional circulation model of Lake Bardawil, Egypt" 
   image: dummy.png
   description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+  authors: M. Bek, GW Cowles
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
+    url: https://www.springer.com/us/book/9783319935898 
+    display:  Book Chapter in Egyptian Coastal lakes and Wetlands Pt 1&#58; Characteristics and Hydrodynamics, Springer (2018)
   highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
-
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2: 
-
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale. 
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
-  link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
-  
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing. 
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 1
-
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
-
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-  link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a> 
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
-  link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a> 
   news2:
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+- title: "A comparison of numerical and analytical predictions of the tidal stream power resource of Massachusetts" 
+  image: MassTidal.jpg
+  description: We present a well-validated model of the tides in Massachusetts coastal waters and use the model to estimate the maximum theoretical yield of tidal power installations at sites where the energy density exceeds 750 W/m^2. 
+  authors: GW Cowles, A. Hakim, JH Churchill
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013) 
+    url: https://www.sciencedirect.com/science/article/pii/S0960148117303877
+    display:  Renewable Energy, 114A, 215–228 (2017) 
   highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
-
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
-  link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013) 
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
-
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1    
-  link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
-
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
-  link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
-
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
-  link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
   news2: 
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+- title: "Validation of a hidden Markov model for the geolocation of Atlantic cod"
+  image: HMM.png 
+  description: This paper is the first chapter of Chang Liu's PhD thesis.  In the paper we present a method for geolocating demersal fish using the Hidden Markov model.  The method is validated using known positions of the fish while at large provided by acoustic arrays.  
+  authors: C Liu, GW Cowles, DR Zemeckis, SX Cadrin, MJ Dean
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010) 
+    url: http://www.nrcresearchpress.com/doi/10.1139/cjfas-2016-0376#.W3OfUv5Kh38 
+    display:  Canadian Journal of Fisheries and Aquatic Sciences, 74, 1862-1877 (2017) 
   highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+  news2:
 
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie 
+- title: "Turbulent and numerical mixing in a salt wedge estuary: dependence on grid resolution, bottom roughness, and turbulence closure" 
+  image: dummy.png
+  description: "" 
+  authors: DK Ralston, GW Cowles, WR Geyer, RC Holleman 
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JC011738 
+    display:  Journal of Geophysical Research, 122 692-712 (2017)
   highlight: 0
+  news2:
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+- title: "Seasonal movements and connectivity of an Atlantic cod (Gadus morhua) spawning component in the western Gulf of Maine"
+  image: dummy.png
+  description: ""
+  authors: DR Zemeckis, C Liu, GW Cowles, MJ Dean, W Hoffman, D Martins, SX Cadrin 
   link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
+    url:  https://academic.oup.com/icesjms/article/74/6/1780/2907792 
+    display:  ICES J. of Marine Science, 74, 1780-1796 (2017)
   highlight: 0
+  news2:
 
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
+- title: "Modeled transport of winter flounder larvae spawned in coastal waters of the Gulf of Maine" 
+  image: dummy.png
+  description: ""
+  authors: G Decelles, GW Cowles, C Liu, SX Cadrin 
   link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url:  https://onlinelibrary.wiley.com/doi/abs/10.1111/fog.12120 
+    display:  Fisheries Oceanography, 24, 430-444 (2015)
+  highlight: 0
+  news2:
+
+
+- title: "Connectivity of the bay scallop (argopecten irradians) in Buzzards Bay, Massachusetts, U.S.A"
+  image: BayScallop.png
+  description: This paper comprised the M.S. thesis research of Chang Liu.  We model the dispersal of larval bay scallop in Buzzards Bay using a coupled biophysical model and quantity the connectivity between spawning and settlement regions. 
+  authors: C Liu, GW Cowles, JH Churchill, KDE Stokesbury
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/fog.12114 
+    display:  Fisheries Oceanography, 24, 364-382 (2015) 
   highlight: 1
+  news2: 
 
-- title: Photoelectron Diffraction for a Look inside Nanostructures
+- title: "The impact of tidal stream turbines on circulation and sediment transport in Muskeget Channel, MA"
+  image: Muskeget.png
+  description: This paper comprised the MS thesis research of Ara Hakim.  We examine the impact of a hydrokinetic power extraction on sediment transport and long term morphology in Muskeget Channel, MA using a regional tidal model coupled with a subgridscale approach based on linear actuator disk theory to account for removal of momentum by the turbines. 
+  authors: A Hakim, GW Cowles, JH Churchill
+  link:
+    url: https://www.mtsociety.org/pdf/publications/journal/Pages%20from%20MTS474.pdf
+    display:  Journal of Marine Technology Society, 47, 122-136 (2013).
+  highlight: 1
+  news2: 
+
+- title: "A block-structured adaptive mesh refinement solver for morphodynamic modeling" 
+  image: AMR.png
+  description: An adaptive solver for two-dimensional horizontal morphodynamic modeling studies is presented. The method uses a Riemann solver to compute unsteady, two-dimensional flows over arbitrary topography coupled with an Exner equation to model the bed and is implemented in a highly scalable block-structured adaptive mesh refinement framework. 
+  authors: GW Cowles 
+  link:
+    url: http://www.jcronline.org/doi/abs/10.2112/JCOASTRES-D-12-00152.1?code=cerf-site
+    display:  Journal of Coastal Research, 29, 727-735 (2013) 
+  highlight: 1
+  news2: 
+
+- title: Surficial sediment stability on Georges Bank, in the Great South Channel, and eastern Nantucket Shoals
   image: dummy.png
   description: ""
   authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+    BP Harris, GW Cowles, KDE Stokesbury
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: https://www.sciencedirect.com/science/article/pii/S0278434312002579 
+    display: Continental Shelf Research, 49, 65-72. (2012) 
   highlight: 0
+
+- title: Tidal dynamics in the Gulf of Maine and New England Shelf&#58; An application of FVCOM 
+  image: dummy.png
+  description: ""
+  authors:
+    C Chen, H Huang, RC Beardsley, Q Xu, R Limeburner, GW Cowles, Y Sun, J Qi, H Lin
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2011JC007054 
+    display: J. of Geophysical Research, 116 (2011) 
+  highlight: 0
+
+- title: Life history and biogeography of Calanus copepods in the Arctic Ocean&#58; An individual-based modeling study 
+  image: dummy.png
+  description: ""
+  authors:
+    R Ji, C Ashjian, R Cambell, C Chen, G Gao, C Cabis, GW Cowles, RC Beardsley
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0079661111001169 
+    display: Progress in Oceanography, 96, 40-56 (2011)  
+  highlight: 0
+
+
+- title: A nonhydrostatic version of FVCOM&#58; 2. Mechanistic Study of tidaly generated nonlinear internal waves in Massachusetts Bay
+  image: dummy.png
+  description: ""
+  authors:
+    Z Lai, C Chen, GW Cowles, RC Beardsley
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2010JC006331 
+    display: J. of Geophysical Research, 115 (2010)  
+  highlight: 0
+
+- title: A nonhydrostatic version of FVCOM&#58; 1. validation experiments 
+  image: dummy.png
+  description: ""
+  authors:
+    Z Lai, C Chen, GW Cowles, RC Beardsley 
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009JC005525 
+    display: J. of Geophysical Research, 115 (2010)  
+  highlight: 0
+
+- title: An unstructured-grid finite-volume surface wave model (FVCOM-SWAVE)&#58; Implementation, validations, and applications 
+  image: dummy.png
+  description: ""
+  authors:
+    J Qi, C Chen, RC Beardsley, W Perrie, GW Cowles, Z Lai 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1463500309000067 
+    display: Ocean Modelling, 28, 153-166 (2009) 
+  highlight: 0
+
+- title: Modeling the connectivity between sea scallop populations in the Middle Atlantic Bight and over Georges Bank 
+  image: dummy.png
+  description: ""
+  authors:
+    R Tian, C Chen, KDE Stokesbury, BJ Rothschild, GW Cowles, Q Xu, S Hu, BP Harris, M Marino
+  link:
+    url: https://www.int-res.com/abstracts/meps/v380/p147-160/ 
+    display: Marine Ecology Progress Series, 380, 147-160 (2009) 
+  highlight: 0
+
+- title: Sensitivity analysis of sea scallop (Placopecten magellanicus) larvae trajectories to hydrodyanmic model configuration on Georges Bank and adjacent coastal regions 
+  image: dummy.png
+  description: ""
+  authors:
+    R Tian, C Chen, KDE Stokesbury, BJ Rothschild, Q Xu, S Hu, GW Cowles, B Harris, M Marino 
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2419.2009.00506.x 
+    display: Fisheries Oceanography, 18, 173-184 (2009) 
+  highlight: 0
+
+- title: Dispersal and settlement of sea scallop larvae spawned in the fishery closed areas on Georges Bank 
+  image: dummy.png
+  description: ""
+  authors:
+    R Tian, C Chen, KDE Stokesbury, BJ Rothschild, GW Cowles, Q Xu, S Hu, B Harris, M Marino
+  link:
+    url: https://academic.oup.com/icesjms/article/66/10/2155/679059 
+    display: ICES J. of Marine Science, 66, 2155-2164 (2009)
+  highlight: 0
+
+- title: A new high-resolution unstructured grid finite volume arctic ocean model (AO-FVCOM)&#58; An application for tidal studies 
+  image: dummy.png
+  description: ""
+  authors:
+    C Chen, G Gao, J Qi, A Proshutinsky, RC Beardsley, Z Kowalik, H Lin, GW Cowles
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2008JC004941 
+    display: J. of Geophysical Research, 114 (2009)
+  highlight: 0
+
+- title: Application and comparison of Kalman filters for coastal ocean problems&#58; An application of FVCOM 
+  image: dummy.png
+  description: ""
+  authors:
+    C Chen, P Malanotte-rizzoli, J Wei, RC Beardsley, Z Lai, P Xue, S Lyu, Q Xu, J. Qi, GW Cowles
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JC004548
+    display: J. of Geophysical Research, 114 (2009) 
+  highlight: 0
+
+
+- title: Comparison of observed and model-computed low frequency circulation and hydrography on the New England Shelf 
+  image: NES.png
+  description: In this work we study the capabilities of the FVCOM model to resolve circulation on the New England Shelf.  Comparisons are made with observations from the Coastal Mixing and Optics and New England Shelf Flux Experiment programs. 
+  authors: GW Cowles, SJ Lentz, C Chen, Q Xu, RC Beardsley
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JC004394
+    display:  J. of Geophysical Research, 113 (2008) 
+  highlight: 1
+  news2:
+
+
+- title: Preconditioning for dual-time-stepping simulations of the shallow water equations including Coriolis and bed friction effects 
+  image: Preconditioner.jpg
+  description: Diagonal preconditioners for implicit-unsteady and steady discretizations of the shallow water equations at low- and high-Rossby and drag-number limits are analyzed for both subcritical and supercritical flow.  The preconditioners are applied to a multigrid-accelerated SUPG solver and demonstrate good convergence over a wide range of conditions.  
+  authors: BT Helenbrook, GW Cowles
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S002199910800017X 
+    display:  J. of Computational Physics, 227, 4425-4440 (2008) 
+  highlight: 1
+  news2:
+
+
+- title: Parallelization of the FVCOM coastal ocean model 
+  image: Parallelization.png
+  description: The FVCOM model is parallelized using a single program multiple domain approach.  Non-blocking messages are implemented using the Message Passing Interface.  The resulting parallelization provides efficient speedup on up to O(1000) cores on distributed memory systems. A program model is constructed and demonstrates that interconnect latency is the key bottleneck to scalability. 
+  authors: GW Cowles
+  link:
+    url: http://journals.sagepub.com/doi/10.1177/1094342007083804
+    display:  Intl. J. of High Performance Computing Applications, 22, 177-193 (2008) 
+  highlight: 1
+  news2:
+
+- title: Physical mechanisms for the offshore detachment of the Changjian diluted water in the East China Sea 
+  image: dummy.png
+  description: ""
+  authors:
+    C Chen, P Xue, P Ding, RC Beardsley, Q Xu, X Mao, G Gao, J Qi, C Li, H Lin, H., GW Cowles, S Maochong
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2006JC003994
+    display: J. of Geophysical Research, 113 (2008)
+  highlight: 0
+
+- title: Comparisons with ROMS for three idealized barotropic test problem 
+  image: dummy.png
+  description: ""
+  authors:
+    H Huang, C Chen, GW Cowles, C Winant, RC Beardsley, K Hedstrom, D Haidvogel
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2007JC004557 
+    display: J. of Geophysical Research, 113 (2008) 
+  highlight: 0
+
+
+- title: Tidal pumping onto Georges Bank&#58; A process-oriented modeling study 
+  image: dummy.png
+  description: ""
+  authors:
+    S Hu, D Townsend, C Chen, GW Cowles, RC Beardsley, R Ji, R Houghton
+  link:
+    url: http://www.whoi.edu/cms/files/shu_jms2008_46404.pdf 
+    display: J. of Marine Systems, 74, 528-544 (2008) 
+  highlight: 0
+
+- title: Critical issues for modeling studies of Narragansett Bay and Mount Hope Bay
+  image: dummy.png
+  description: ""
+  authors:
+    C Chen, L Zhao, GW Cowles, BJ Rothschild   
+  link:
+    url: https://www.springer.com/us/book/9780387352985
+    display: Book Chapter in Science for Ecosystem-based Management, Narragansett Bay in the 21st Century, Springer (2008)
+  highlight: 0
+
+
+- title: Dispersal modeling of fish early life stages&#58; Sensitivity with application to Atlantic cod in the western Gulf of Maine 
+  image: dummy.png
+  description: ""
+  authors:
+    M Huret, J Runge, C Chen, GW Cowles, Q Xu, J Pringle
+  link:
+    url: https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1035&context=sms_facpub 
+    display: Marine Ecology Progress Series, 347, 261-274 (2007) 
+  highlight: 0
+
+- title: A finite volume numerical approach for coastal ocean circulation studies&#58; Comparisons with finite difference model 
+  image: dummy.png
+  description: ""
+  authors:
+    C Chen, H Huang, RC Beardsley, H Liu, Q Xu, GW Cowles
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2006JC003485
+    display: Journal of Geophysical Research, 112 (2007)
+  highlight: 0
+
+- title: Tidal flushing and eddy shedding in Mount Hope Bay and Narragansett Bay&#58; An application of FVCOM 
+  image: dummy.png
+  description: "" 
+  authors:
+    L Zhao, C Chen, GW Cowles
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JC003135 
+    display: Journal of Geophysical Research, 111 (2006) 
+  highlight: 0
+
+- title: An unstructured grid finite-volume coastal ocean model system 
+  image: FVCOM.png
+  description: We provide an overview of open source Finite Volume Community Ocean Model including the numerical methodology, coding approach, model capabilities, as well as several example test cases such as an estuary and the Arctic Ocean. 
+  authors:
+    C Chen, GW Cowles, RC Beardsley 
+  link:
+    url: https://tos.org/oceanography/article/an-unstructured-grid-finite-volume-coastal-ocean-model-fvcom-system 
+    display: Oceanography, 19, 78-89 (2006) 
+  highlight: 1
+
+
+- title: Control-theory based shape design for the incompressible Navier-Stokes equations 
+  image: Adjoint.png
+  description: We present a method for wing shape optimization in incompressible turbulent viscous flow where the gradient is computed using a control-theory based algroithm. The method is validated using inverse test cases for wing and sail shapes. 
+  authors:
+    GW Cowles, L Martinelli 
+  link:
+    url: http://adsabs.harvard.edu/abs/2003IJCFD..17..499C 
+    display: Intl. J. of Computational Fluid Dynamics, 17, 1-16 (2003) 
+  highlight: 1
+
+

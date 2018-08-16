@@ -1,0 +1,43 @@
+- name: FISCM 
+  description: FISCM (the Fvcom I-state COnfiguration Model) is an offline Lagrangian/Individual Based model.  It is setup to be driven by output from FVCOM ocean model runs.  A 4-stage RK scheme is used to advect the particles horizontally and vertically.  For vertical diffusion FISCM employs Visser's modified random walk.  The horizontal diffusion is based on eddy diffusivity in the FVCOM output or estimated on the grid size using the method of Okubo.  Users can add additional state variables to the particles in order to introduce biological factors such as development or mortality which can be linked to time or model fields like temperature or salinity.  The method has been used to look at dispersal of bay scallop larvae in Buzzards Bay, haddock larvae spawned on Georges Bank, winter flounder larvae in the Gulf of Maine, calanus copepods in the Arctic Ocean, and is currently being used to examine the dispersal of American lobster larvae in southern New England and bonefish larvae in the Bahamas.  A list of publications is provided with the README file in the source distribution.  The code is written in Fortran90 and dependencies include NetCDF libraries built with F90 support.
+  source: clone from <a href="https://github.com/GeoffCowles/fiscm" target="_blank" >github </a>
+  number_pub: 4
+
+  pub1: Liu, C., Cowles, G. W., Churchill, J. H., and Stokesbury, K.D.E., (2015) Connectivity of the bay scallop (Argopecten irradians) in Buzzards Bay, Massachusetts, U.S.A. Fisheries Oceanography, 24, 364– 382.
+
+  pub2: DeCelles, G., Cowles, G., Liu, C., and Cadrin, S.X, (2015). Modeled transport of winter flounder larvae spawned in coastal waters of the Gulf of Maine. Fisheries Oceanography, 24, 430–444.
+
+  pub3: Boucher, J.M., Chen, C., Sun, Y., and Beardsley, R.C. (2013) Effects of interannual environmental variability on the transport-retention dynamics in haddock Melanogrammus aeglefinus larvae on Georges Bank. Marine Ecology Progress Series 487, 201–215.
+
+  pub4: Ji, R., Ashjian, C.J., Campbell, R.G., Chen, C., Gao, G., Davis, C.S., Cowles, G.W., and Beardsley, R.C. (2011) Life history and biogeography of calanus copepods in the Arctic Ocean&#58; An individual-based modeling study. Progress In Oceanography 96(1), 40–56.
+
+
+- name: FVCOM-TOOLBOX
+  description: the FVCOM toolbox is a set of MATLAB scripts that can assist with model setup.  These include routines to generate forcing files including elevation, wind, heat flux, freshwater input, and others.  There are also auxiliary routines to read/write grids, coriolis files, bathymetry, etc.  
+  source: clone from the <a href="https://github.com/GeoffCowles/fvcom-toolbox" target="_blank">original github repository of fvcom-toolbox</a> or from <a href="https://github.com/pwcazenave/fvcom-toolbox" target="_blank">a fork of the fvcom-toolbox</a>.  Presently the fork is more up to date.  
+  number_pub: 0
+
+
+- name: HMM SMAST
+  description: hmm_smast is a MATLAB package for geolocating New England groundfish using Data Storage Tag (DST) data based on a hidden Markov approach. This package is a fork of Martin W Pedersen's MATLAB geolocation toolbox. 
+  source: clone from <a href="https://github.com/cliu3/hmm_smast" target="_blank">github</a>
+  number_pub: 2
+
+  pub1: Liu, C., Cowles, G. W., Zemeckis, D.R., Cadrin, S.X., and Dean, M.J. (2017) Validation of a hidden Markov model for the geolocation of Atlantic cod, Canadian J. of Fisheries and Aquatic Siences, 74, 1862-1877. 
+
+  pub2: Zemeckis, D.R., Liu, C., Cowles, G.W., Dean, M.J., Hoffman, W., Martins, D., and Cadrin, S.X. (2017).  Seasonal movements and connectivity of an Atlantic cod (Gadus morhua) spawning component in the western Gulf of Maine, ICES J. of Marine Science, 74, 1780-1796. 
+
+- name: PF-Geolocation 
+  description: PF-Geolocation is a Python package for geolocating New England groundfish using Data Storage Tag (DST) data based on the particle filter approach. The code is hardware accelerated using pyCUDA. 
+  source: clone from <a href="https://github.com/cliu3/pf_geolocation" target="_blank">github</a>
+  number_pub: 1
+
+  pub1: Liu, C., Cowles, GW, Zemeckis, DR, Fay, G., Le Bris, A., and Cadrin, S.X. (in REVIEW) A hardware-accelerated particle filter for the geolocation of demersal fish. Methods in Ecology and Evolution.
+
+- name: FVCOM 
+  description: The Finite Volume Community Ocean Model is a FORTRAN90 package for integrating the hydrostatic primitive equations on an unstructured triangular grid to resolve circulation from estuarine to global scales.  FVCOM is developed by a team led by Changsheng Chen at UMass Dartmouth.  Our group performed the parallelization of the code using an SPMD approach with MPI and has contributed to several of the modules including ones used to model non-cohesive sediment transport, simulate the effects of hydrokinetic energy extraction, and quantify numerical mixing (spatial discretization errors).  These modules are includes with the source distribution.  A non-comprehensive list of publications related to FVCOM can be found <a href="http://fvcom.smast.umassd.edu/medm-publications/" target="blank">here</a>. 
+  source: FVCOM is free to academic users.  Register at <a href="http://fvcom.smast.umassd.edu/fvcom/" target="_blank">FVCOM user portal</a>
+  number_pub: 0
+
+
+

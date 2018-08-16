@@ -1,22 +1,50 @@
-#- name: 
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ: 
-#  education1:  
-#  education2:  
-#  education3: 
-#  education4:  
-- name: Willem Tromp
-  photo: rock.jpg
-  info: Master student
-  email: WTromp@Physics.LeidenUniv.nl
+- name: Chang Liu 
+  photo: Cliu.jpg
+  topic: Geolocation of Demersal Fish using state space methods (NOAA)
+  info: Ph.D. candidate, started May 2013
+  email: chang.liu@umassd.edu
+  number_educ: 2
+  education1: -BS Nanjing University of Information Science & Technology 2010
+  education2: -MS SMAST, UMass Dartmouth 2013 
+
+- name: Flynn Casey 
+  photo: FCasey.jpg
+  topic: Dispersal of lobster larvae in southeastern MA using biophysical coupled modeling (NOAA) 
+  info: M.S. candidate, started June, 2017
+  email: ecasey1@umassd.edu
+  number_educ: 1
+  education1: -BS Biology, UMass Boston 2013 
+
+
+- name: Marc Carriera 
+  photo: MCarreira.jpg
+  topic: Hydrofoil Design using Multi-Objective Shape Optimization 
+  info: M.S. candidate, started September, 2017
+  email: mcarreira@umassd.edu 
+  number_educ: 1
+  education1: -BS MechE, UMass Dartmouth 2017
+
+- name: Angela Murray 
+  photo: AMurray.jpg  
+  topic: Numerical investigation of the hydrodynamics of leptocephalus bonefish larvae Albula vulpes 
+  info: M.S. candidate, started September, 2017
+  email: amurray6@umassd.edu
+  number_educ: 1
+  education1: -BS MechE, UMass Dartmouth 2017
+
+- name: Jack Hanson 
+  photo: JHanson.jpg  
+  topic: Planform Design for Optimal Tethered Recharge of a Micro AUV 
+  info: M.S. candidate, started September, 2017.  Employed at Naval Undersea Warfare Center
+  email: jhanson2@umassd.edu 
   number_educ: 0
-  education1:
-  
-- name: Corne Koks
-  photo: rock.jpg
-  info: Master student
-  email: -@Physics.LeidenUniv.nl
-  number_educ: 0
-  education1:
+  education1: null 
+
+- name: Anthony Ucci  
+  photo: AUcci.jpg
+  topic: Assessement of Renewable Energy Potential in New England 
+  info: EAS Ph.D. candidate, started September, 2016.  Department Chair of Engineering & Technology at Bristol Community College
+  email: Anthony.Ucci@bristolcc.edu 
+  number_educ: 1
+  education1: -Rochester Institute of Technology, 1990
+

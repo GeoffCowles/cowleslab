@@ -1,0 +1,17 @@
+- number: MAR514 
+  name:  Quantitative Methods 
+  offered: Fall semesters 
+  synopsis: This course provides instruction, demonstration and exercises in quantitative methods critical to advanced studies in marine science. A wide range of subjects will be covered to provide an overview and build skills and familiarity with the course material. Content will be based on topics in calculus, function approximation, linear algebra, differential equations and statistics. The curriculum will emphasize application of these methods to problems in marine science including biological and oceanographic systems through classroom examples and homework content.
+  syllabus: "" 
+
+
+- number: MAR524
+  name: Marine Ecosystem Modeling
+  offered: Spring semesters
+  synopsis: This course provides instruction, demonstration and exercises in modeling applications in marine science. First, an overview of applications will be provided for context. Then, a general discussion of the relevant ocean processes will be presented. Finally, a sequence of ecosystem models will be examined, ranging from one-dimensional water column parameterizations to three-dimensional coupled ocean-ecosystem models. Particular focus will be placed on the application of Individual Based Models of organisms. Students will construct and use their own models in class projects. In the final project, the students will devise an individual based model and drive it with circulation fields provided by a 3-D ocean model. 
+  syllabus: ""
+
+- number: MAR599
+  name:  Non-hydrostatic Ocean Modeling
+  synopsis: Many of the important dissipative processes in the ocean are nonhydrostatic in nature. These include shear-induced instabilities, convective-induced instabilities, and internal breaking waves. All of these processes contribute to enhanced cross-isopycnal mixing and modification of the vertical distribution of biological model components. Resolution of these processes with an ocean model requires the solution of non-hydrostatic governing equations, typically the Incompressible Navier-Stokes equations. In this course we will develop the dynamics of non-hydrostatic ocean processes and examine their impact on the large scale flow using scaling laws. Following this motivation, an overview of the current computational techniques used to solve the Navier-Stokes equations will be given. The numerical schemes of three different non-hydrostatic ocean models will then be investigated. Finally, numerical methods for solving large systems of linear equations such as those resulting from discretization of the incompressible Navier-Stokes equations will be examined. 
+  syllabus: ""

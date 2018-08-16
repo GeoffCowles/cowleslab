@@ -1,0 +1,25 @@
+- number: MNE490/MAR599 
+  name:  Fundamentals of Flight
+  offered: Spring semesters in odd years 
+  synopsis: This course provides a technical introduction to the mechanics of flight.  Units will include&#58; a review of fluid mechanics in the context of aerodynamics, two-dimensional and finite-span wing theories, flow compressibility effects, airplane performance, stability and control, and propulsion.  The course will emphasize computation in both homework and team-oriented projects.
+  syllabus: MNE490_FOF_syllabus.pdf
+
+- number: MNE436/MAR599 
+  name:  Ship Hydrodynamics and Propulsion 
+  offered: Spring semesters in even years
+  synopsis: This course provides instruction, demonstration and exercises in the fundamentals of marine hydrodynamics. The curriculum will emphasize application of these principles through classroom examples, homework content, and a final project. 
+  syllabus: MNE436_syllabus.pdf
+
+- number: MAR555
+  name:  Introductory Physical Oceanography
+  offered: Fall semester
+  synopsis: A descriptive treatment of ocean-atmosphere interactions, water properties, general wind- driven and thermohaline circulation, waves and tides; and coastal processes. Simplified conceptual models demonstrate the important principles. 
+  syllabus: MAR555_syllabus.pdf
+
+- number: MAR599 
+  name: Ecological Mechanics 
+  offered: Fall semester
+  synopsis: This course covers the physics and engineering principles underlying form and function in the natural world. The curriculum will emphasize application of these principles through classroom examples, homework content, and projects. 
+  syllabus: MAR599_syllabus.pdf
+
+

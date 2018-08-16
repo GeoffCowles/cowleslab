@@ -1,0 +1,11 @@
+- name: Geoffrey W. Cowles
+  photo: Cowles.jpg
+  info: Associate Professor 
+  email: gcowles@umassd.edu
+  topic: ""
+  number_educ: 5
+  education1: -BS, Mechanical & Aeronautical Eng., <a href="www.cornell.edu">Cornell University</a> 1994  
+  education2: -MA, Mechanical & Aerospace Eng., <a href="www.princeton.edu">Princeton University</a> 1996  
+  education3: -PhD, Mechanical & Aerospace Eng., <a href="www.princeton.edu">Princeton University</a> 2001 with <a href="https://mae.princeton.edu/people/faculty/martinelli" target="_blank">Gigi Martinelli</a>
+  education4: -Postdoc, Mathematics, <a href="www.epfl.edu">&Eacute;cole Polytechnique F&eacute;d&eacute;rale de Lausanne, Switzerland</a> 2002-2003 with <a href="https://en.wikipedia.org/wiki/Alfio_Quarteroni" target="_blank">A. Quarteroni</a>
+  education5: -Postdoc, Marine Science, <a href="www.umassd.edu">UMass Dartmouth</a> 2004-2006 with <a href="https://www.umassd.edu/directory/c1chen/" target="_blank">Changsheng Chen</a>

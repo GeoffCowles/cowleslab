@@ -1,0 +1,74 @@
+- topic: Modeling the Impact of Climate Change on Larval Connectivity of the American Lobster off of Southern New England  
+  with_support: 1
+  support: NOAA Saltonstall-Kennedy, Buzzards Bay Garden Club 
+  with_collaborators: 1
+  collaborators: R. Wahle (UMaine), T. Pugh (MADMF), B. Glenn (MADMF), B. Shank (NOAA), J. Churchill (WHOI), K. Stokesbury, F. Casey
+  synopsis: During the 1990s, Buzzards Bay supported a commercially viable lobster fishery within Lobster Management Area-2 (LMA-2). American lobster landings and employment of commercial lobstermen in LMA-2 have since decreased substantially, concurrent with declines in abundance and inshore postlarval settlement. These changes occurred during a period of significant warming of coastal waters off of southern New England. Water temperature may significantly impact recruitment, as larval development and survival are temperature-dependent and high inshore temperatures may prompt adults to remain further offshore during that critical time of egg-release. We are employing a coupled biophysical individual-based model (IBM) driven by hindcasts to simulate the transport of larvae released over the domain of LMA-2. Numerical trajectories will be used to determine the impact of the offshore shift in the distribution of egg- bearing females on delivery to the local Buzzards Bay population. Connectivity between realized and potential release sites within LMA-2 and inshore postlarval settlement in Buzzards Bay will be examined. These investigations are expected to facilitate management of the American lobster in LMA-2, and other areas under similar circumstances, by advancing an understanding of how population dynamics are affected by warming temperatures. 
+  image: lobster.png
+  with_fullpage: 0
+  fullpage: null
+  number_pub: 0
+
+- topic: Geolocation of Demersal Groundfish 
+  with_support: 1
+  support: NOAA Saltonstall-Kennedy (2 separate projects)  
+  with_collaborators: 1
+  collaborators: S.X. Cadrin, D. Zemeckis (Rutgers University), C. McGuire (Nature Conservancy), C. Liu
+  synopsis: Understanding fish movement is critical for describing spatial processes and popu- lation dynamics. Archival electronic tags present the opportunity to acquire high resolution data on fish movements. Geolocation methods using archival tags have been commonly used to estimate daily positions of pelagic species using tidal features, temperature, depth, and other environmental data.  However, the development and validation of alternative methods is required for geolocation of demersal species, because of considerable error in estimated positions. In this effort we developed geolocation methods for four demersal species (Atlantic cod, yellowtail flounder, monkfish, and Atlantic halibut) off New England using two approach.  The first approach is based on the hidden Markov model (HMMs) and leverages an existing geolocation framework.  A second approach based on the particle filter was subsequently developed to deal with some of the shortcomings of the first method, most notably the treatment near land.  This second approach is accelerated using GPUs to produce reasonable geolocation times on commodity computers. Validation experiments were performed using a comprehensive quantitative skill assessment process relying on stationary tags moored on the seafloor, double-tagged fish (archival tag and acoustic transmitter), and simulated tracks. Processing the recovered archival tagging data using the developed geolocation methods is expected to improve our understanding of cod movements and population dynamics, which will be helpful for informing future stock assessments and fishery management plans. 
+  image: geolocation.png 
+  with_fullpage: 0
+  fullpage: null
+  number_pub: 2
+  pub1: Zemeckis, Dr., Liu, C., Cowles, GW, Dean, MJ, Hoffman, W., Martins, D., and Cadrin, S.X. (2017).  Seasonal movements and connectivity of an Atlatic cod (Gadus morhua) spawning component in the western Gulf of Maine.  ICES J. of Marine Science, 74, 1780-1796. 
+  pub2: Liu, C., Cowles, GW, Zemeckis, DR, Cadrin, SX, and Dean, MJ (2017).  Validation of a hidden Markov model for the geolocation of Atlantic cod, Canadian J. of Fisheries and Aquatic Sciences, 74, 1862-1877. 
+
+- topic: Multiscale Modeling of Tidal Kinetic Energy Extraction 
+  with_support: 1
+  support: MIT Sea Grant, NSF, DOE 
+  with_collaborators: 1
+  collaborators: J. Churchill (WHOI, PI), A. Hakim
+  synopsis: Tidal in-stream energy conversion (TISEC) facilities provide a highly predictable and dependable source of renewable energy. Key challenges to the design process stem from the wide range of problem scales which extend from the device to the tidal wave.  Our approach links three computational models&#58; an ocean model for resolving the regional flow and making evaluations of the theoretical source, a shallow water equation solver for performing array optimization at a given site, and a CFD model to examine site-specific device performance. This approach is applied to an assessment of the tidal power potential in Massachusetts waters. An additional detailed study of the impact of TISEC on sediment transport and morphology in Muskeget Channel was also carried out. 
+  image: mhke.jpg
+  with_fullpage: 0
+  fullpage: null
+  number_pub: 2
+  pub1: Hakim, A., Cowles, GW, Churchill, JH (2013). The impact of tidal stream turbines on circulation and sediment transport in Muskeget Channel, MA, J. of Marine Technology Society, 47, 122-136. 
+  pub2: Cowles, GW, Hakim, A., Churchill, JH (2017).  A comparison of nuerical and analytical predictions of the tidal stream power resource of Massachusetts, Renewable Energy, 114A, 215-228. 
+
+
+- topic: Quantifying Bay Scallop Connectivity in Buzzards Bay, MA 
+  with_support: 1
+  support: Woods Hole Sea Grant 
+  with_collaborators: 1
+  collaborators: J. Churchill (WHOI, PI), C. Liu
+  synopsis: Bay scallops constitute a major resource for the fishing economy of southeastern Massachusetts. However, the value of this resource varies significantly from year to year, particularly in local embayments where yearly harvests may differ by an order of magnitude. Such variations have led to efforts to enhance scallop populations in specific embayments through seeding, but these have met with varying degrees of success. Understanding the factors that influence juvenile scallop recruitment, and developing a system to predict the impact of management decisions on scallop populations, would clearly benefit those charged with regulating and safeguarding this important resource. In this work we apply a coupled biophysical model to examine the dispersal of bay scallop larvae within buzzards bay and evaluate the response of the connectivity among subpopulations to interannual variability of the wind field.  We use a high resolution hydrodynamic model to drive an individual based model (IBM) of the scallop larvae. Lagrangian Probability Density Functions are used to quantify the connectivity. 
+  image: bsfig.png 
+  with_fullpage: 0
+  fullpage: null 
+  number_pub: 1
+  pub1: Liu, C., Cowles, GW, Churchill, JH, Stokesbury, KDE (2015).  Connectivity of the bay scallop (argopecten irradians) in Buzzards Bay, Massachusetts, U.S.A, Fisheries Oceanography, 24, 364-382. 
+
+
+- topic: Morphodynamic Modeling using Adaptive Mesh Refinement 
+  with_support: 1
+  support: ONR
+  with_collaborators: 0
+  collaborators: "null"
+  synopsis: In this work we implement the augmented Riemann solver of  D.L. George (2010) in a block-structured adaptive mesh refinement framework.  The augmented Riemann solver resolves the wet-dry front exactly, preserves positive depth through Einfeldt wave speeds and is well balanced in terms of the bathymetric slope term (which appears as a source term when solving the shallow water equations in conservation form).  We use the application framework SAMRAI to provide the mesh adaption components including regridding, filling of ghost cells, load balancing, and flux correction.  An Exner equation is used to model the evolution of the bed and several load equations have been implemented.   The basic morphodynamic scheme is stabilized using an upwind approach and is accelerated using a morphological factor.   
+  image: amrfig.jpg 
+  number_pub: 1
+  pub1: Cowles, G.W. (2013) A block-structured adaptive mesh refinement solver for morphodynamic modeling. Journal of Coastal Research, 29, 727–735. 
+
+
+- topic: Parallelization of the FVCOM Ocean Model 
+  with_support: 1
+  support: NASA, Mass Marine Fisheries Institute
+  with_collaborators: 0
+  collaborators: "null"
+  synopsis: A Single Program Multiple Data (SPMD) parallelization methodology for the Finite Volume Coastal Ocean Model <a href="http://fvcom.smast.umassd.edu/" target="_blank">(FVCOM)</a> has been designed, implemented, and tested.  The structure is a domain decomposition method and utilizes explicit message passing for interprocessor communications programmed using the MPI libraries.  The resulting implementation has achieved good speedup on up to 512 cores.  The parallelized code enables utilization of the FVCOM model for larger scale, higher resolution, and longer time period applications (Cowles, 2008).  The work was supported by NOAA/MFI and NASA. 
+  image: parfig.jpg
+  with_fullpage: 0
+  fullpage: fvcom_parallelization.html 
+  number_pub: 1
+  pub1: Cowles, G.W. (2008). Parallelization of the FVCOM coastal ocean model, Intl. J. of High Performance Computing Applications, 22, 177-193.   
+

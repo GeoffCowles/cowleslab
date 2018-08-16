@@ -1,29 +1,24 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Cowles Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings
 ---
 
 # Open positions
 
-We are always looking for new group members with passion, talent, and grit! 
+Our students work on a range of problems from large scale (coastal ocean) to small scale (larval fish) and from biology-aligned to tradiational engineering applications.  It is critical you have an interest in computing and some experience writing code.  The software we work with is open source and most projects require getting your hands dirty in the code. We welcome tenacious students who are dedicated to discovery.  
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+#### UMass Intercampus Marine Science Program MS/PhD 
+Our graduate program is the <a href="http://www.umassmarine.net/" target="_blank">Intercampus Marine Science program</a>which includes both PhD and MS degree tracks. If you interested in the program, we encourage you to apply for admission. If you are additionally interested in working with us, please send me an [email](mailto:gcowles@umassd.edu) and state your interest and background and attach a CV. 
 
-#### PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line.
+#### UMass Dartmouth MNE M.S. and EAS Ph.D. students
+If you are in one of the two M.S. degree tracks in Mechanical Engineering (MNE) or in the Engineering and Applied Sciences (EAS) PhD track at UMass Dartmouth and seeking a thesis project, contact me to discuss.  I am affiliated with MNE and have advised students in these tracks.  
 
-There are some postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm). 
-
-#### Leiden University master students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office. 
-
-#### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades or a personal recomendation).
-
+#### Support 
+Students in my lab are supported through a mix of self-funding, TA-ships, and competitive external funds.  Presently I do not have any external funding available to support students.  
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/CowlesHakim.jpg" width="85%">
 </figure>

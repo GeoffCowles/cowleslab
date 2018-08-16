@@ -1,0 +1,50 @@
+- name: Mukit Hasan 
+  photo: dummy.jpg
+  topic: Optimization of Tidal Energy Arrays using a Global Method 
+  info: MNE M.S. student, graduated Fall, 2017 
+  email: null
+  number_educ: 0
+
+- name: Dr. Mohamed Ali Bek Abdelrhman  
+  photo: dummy.jpg
+  topic: Circulation modeling of Lake Bardawil, Egypt 
+  info: Visiting faculty from Tanta University, Egypt, AY17-18 
+  email: null 
+  number_educ: 0
+
+- name: Aradea Hakim 
+  photo: dummy.jpg
+  topic: The Impact of Tidal Stream Turbines on Circulation and Sediment Transport in Muskeget Channel, MA 
+  info: IMS M.S. student graduated Spring, 2015 
+  email: null
+  number_educ: 0
+
+- name: Prithvi Raj Parunandi
+  photo: dummy.jpg
+  topic: Estimating Residence times of Gulf of Maine Surface Waters using Synoptic Lagrangian Maps 
+  info: Visiting scholar from IIT Bhubaneswar, Summer, 2013
+  email: null
+  number_educ: 0
+
+- name: Vamishi Krishna 
+  photo: dummy.jpg
+  topic: Comparison of observed and model-computed circulation of Lake Sunapee, NH 
+  info: Visiting scholar from IIT Bhubaneswar, Summer, 2012  
+  email: null
+  number_educ: 0
+
+- name: Juan Pablo Santa Mar&iacute;a 
+  photo: dummy.jpg
+  topic: Development of a Tidal Energy Resource Model for Canal de Chacao, Chile 
+  info: Visiting scholar from Pontificia Universidad Catolica, Santiago, Chile, Summer 2012
+  email: null
+  number_educ: 0
+
+- name: Eric Holmes 
+  photo: dummy.jpg
+  topic: Wave-Modeling of Sandy Tidal Flats 
+  info: Technician, 2010
+  email: null
+  number_educ: 0
+
+
