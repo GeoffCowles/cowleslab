@@ -1,9 +1,6 @@
 - date: 20. August 2018
   headline: "Chang Liu and Flynn Casey presented their thesis research at the <a href='https://afsannualmeeting.fisheries.org/' target='_blank' >2018 American Fisheries Society Annual Science Meeting in Atlantic City, NJ</a>. <img src='/images/newspic/afs2018.PNG' class='img-responsive' style='max-width: 192px' />"
 
-- date: 7. August 2018
-  headline: "Chang Liu submitted the second chapter of his Ph.D. thesis for review in  <a href='https://besjournals.onlinelibrary.wiley.com/journal/2041210X' target='_blank' >Methods in Ecology and Evolution</a>. The paper describes a method for geolocating demersal fish based on the particle filter and accelerated using GPUs<img src='/images/newspic/meecover.jpg' class='img-responsive' style='max-width: 192px' />"
-
 - date: 5. August 2018
   headline: "Finished build of hopper, named after <a href='https://en.wikipedia.org/wiki/Grace_Hopper' target='_blank' >Grace Hopper</a>.  It has an 8th generation core i5 CPU and an NVIDIA GTX 1060 GPU and will be used to test some GPU-based accelerations of the FVCOM kernel using OpenACC. Exact parts list available <a href='https://pcpartpicker.com/user/mattycattery/saved/#view=2h3bXL' target='_blank' >here</a>. <img src='/images/newspic/hopper.jpg' class='img-responsive' style='max-width: 192px' />"
 

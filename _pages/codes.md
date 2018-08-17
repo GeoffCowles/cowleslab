@@ -6,15 +6,16 @@ sitemap: false
 permalink: /codes/
 ---
 
-# Codes 
+<!---# Codes --->
 
 
 {% for member in site.data.codes %}
 <div class="row">
 <div class="col-sm-12">
- <div class="well">
-
-  <h3><b>{{ member.name }}</b></h3>
+<!--- <div class="well">---->
+ <div class="panel panel-info">
+ <div class="panel-heading"><h3><b>{{member.name}}</b></h3></div>
+  <div class="panel-body">
   <it>{{ member.description }}</it>
   <h4>{{ member.source }}</h4>
   {% if member.number_pub > 0 %}
@@ -53,6 +54,7 @@ permalink: /codes/
   {% endif %}
   </ul>
 
+ </div>
  </div>
 </div>
 </div>
