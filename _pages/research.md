@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research Examples
+# Research
 
 {% for member in site.data.research %}
 <div class="row">
@@ -20,7 +20,11 @@ permalink: /research/
   {% endif %}
 
   {% if member.with_collaborators == 1 %}
-  <p><it>{{ member.collaborators }}</it></p>
+  <p><it>Collaborators: {{ member.collaborators }}</it></p>
+  {% endif %}
+
+  {% if member.with_students == 1 %}
+  <p><it>Students: {{ member.students}}</it></p>
   {% endif %}
 
   {% if member.with_fullpage == 1 %} 
