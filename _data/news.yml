@@ -1,26 +1,44 @@
 - date: 20. August 2018
-  headline: "Chang Liu and Flynn Casey presented their thesis research at the <a href='https://afsannualmeeting.fisheries.org/' target='_blank' >2018 American Fisheries Society Annual Science Meeting in Atlantic City, NJ</a>. <img src='/images/newspic/afs2018.PNG' class='img-responsive' style='max-width: 192px' />"
+  headline: "Chang Liu and Flynn Casey presented their thesis research at the <a href='https://afsannualmeeting.fisheries.org/' target='_blank' >2018 American Fisheries Society Annual Science Meeting in Atlantic City, NJ</a>."
+  image_cnt: 1
+  image: afs2018.PNG
 
 - date: 5. August 2018
-  headline: "Finished build of hopper, named after <a href='https://en.wikipedia.org/wiki/Grace_Hopper' target='_blank' >Grace Hopper</a>.  It has an 8th generation core i5 CPU and an NVIDIA GTX 1060 GPU and will be used to test some GPU-based accelerations of the FVCOM kernel using OpenACC. Exact parts list available <a href='https://pcpartpicker.com/user/mattycattery/saved/#view=2h3bXL' target='_blank' >here</a>. <img src='/images/newspic/hopper.jpg' class='img-responsive' style='max-width: 192px' />"
+  headline: "Finished build of hopper, named after <a href='https://en.wikipedia.org/wiki/Grace_Hopper' target='_blank' >Grace Hopper</a>.  It has an 8th generation core i5 CPU and an NVIDIA GTX 1060 GPU and will be used to test some GPU-based accelerations of the FVCOM kernel using OpenACC. Exact parts list available <a href='https://pcpartpicker.com/user/mattycattery/saved/#view=2h3bXL' target='_blank' >here</a>."
+  image_cnt: 1
+  image: hopper.jpg
 
 - date: 3. August 2018
-  headline: "A popup satellite tag from an Atlantic halibut tagged as part of our NOAA-sponsored work with the Nature Conservancy released off of Georges Bank.  Data from the tag will be used to geolocate the fish to better understand their movement and habitat utilization<img src='/images/newspic/halibutloc.png' class='img-responsive' style='max-width: 192px' />"
+  headline: "A popup satellite tag from an Atlantic halibut tagged as part of our NOAA-sponsored work with the Nature Conservancy released off of Georges Bank.  Data from the tag will be used to geolocate the fish to better understand their movement and habitat utilization."
+  image_cnt: 1
+  image: halibutloc.png
 
 - date: 15. May 2018
-  headline:  "Flynn Casey and Jim Churchill (WHOI) presented results from our project Modeling the Impact of Climate Change on Larval Connectivity and Recruitment of the American Lobster off of Southern New England to the Atlantic States Fishery Management Council Lobster Technical Committee<img src='/images/newspic/ASFMC.png' class='img-responsive' style='max-width: 192px' />."
+  headline:  "Flynn Casey and Jim Churchill (WHOI) presented results from our project Modeling the Impact of Climate Change on Larval Connectivity and Recruitment of the American Lobster off of Southern New England to the Atlantic States Fishery Management Council Lobster Technical Committee."
+  image_cnt: 0
+  image: ASFMC.png
 
 - date: 15. April 2018
   headline: "Flynn Casey, Angela Murray, and Marc Carreira presented their research at the UMass Dartmouth Sigma Xi Research Exhibition"
+  image_cnt: 0
+  image: "null"
 
 - date: 15. February 2018
   headline: "Chang Liu presented his work on geolocation from pop-up satellite tags at the American Fisheries Society Southern New England Chapter Meeting"
+  image_cnt: 0
+  image: "null"
 
 - date: 20. January 2018
   headline:  "student Flynn Casey presented his thesis research on dispersal of larval lobster in southern New England to the Buzzards Bay Garden Club, a philanthropic organization that provides support for his work."
+  image_cnt: 0
+  image: "null"
 
 - date: November 2017
   headline: "Geoff Cowles presented his work on multi-scale modeling of tidal energy in the seminar series of the Mechanical & Aeronautical Engineering dept. at Clarkson University"
+  image_cnt: 0
+  image: "null"
 
 - date: September, 2017
   headline: "Chang Liu presented his thesis research on a GPU-accelerated particle filter geolocation method for demersal fish using archival tagging data at the ICES annual science meeting in Ft. Lauderdale, FL." 
+  image_cnt: 0
+  image: "null"

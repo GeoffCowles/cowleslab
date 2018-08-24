@@ -1,0 +1,1 @@
+scp -r _site/* gcowles@134.88.228.19:/http/www/SMAST/CMLAB
